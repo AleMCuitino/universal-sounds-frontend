@@ -10,4 +10,8 @@ const reportWebVitals = onPerfEntry => {
   }
 };
 
+
+### Screenshots
+
+![galery](./imgReadme/galeri.png
 export default reportWebVitals;

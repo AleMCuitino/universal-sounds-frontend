@@ -2,8 +2,6 @@ Our project UniversalSound
 
 ### `npm start`
 
-
-
 ### `npm test`
 
 ### `npm run build`

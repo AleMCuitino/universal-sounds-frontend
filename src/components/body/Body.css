@@ -1,0 +1,33 @@
+.containerbody {
+  padding-left: 25vw;
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+}
+.ContainerCards {
+  /* margin-left: 25vw; */
+  border-color: black;
+  border:2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Box {
+  width: 30%;
+  height: 30%;
+  gap: 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 5vh;
+  
+}
+
+.Add {
+  background-color: black;
+  color: white;
+  border-radius: 2vh;
+  width: 20%;
+  
+
+  }

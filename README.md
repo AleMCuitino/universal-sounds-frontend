@@ -1,7 +1,7 @@
 ## Project name
 
 <div align="center"> 
-  <img src="universalSounds/scr/assets/logo_records-01.png" width="400">
+  <img src="https://github.com/AleMCuitino/universal-sounds-frontend/blob/main/src/assets/logo_records-01.png" width="400">
 </div>
 
 ## Description
